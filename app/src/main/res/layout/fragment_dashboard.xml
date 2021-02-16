@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#CDE6F1"
+    tools:context=".dashboard">
+
+
+    <Button
+        android:id="@+id/banxiety"
+        android:layout_width="145dp"
+        android:layout_height="72dp"
+        android:background="#EA7BC5"
+        android:text="Anxiety"
+        android:textColor="#0F13E8"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.273" />
+
+    <Button
+        android:id="@+id/bstress"
+        android:layout_width="178dp"
+        android:layout_height="73dp"
+        android:background="#80D8FF"
+        android:text="Stress"
+        android:textColor="#D8366D"
+        android:textColorHighlight="#BD2357"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.47" />
+
+    <Button
+        android:id="@+id/bot"
+        android:layout_width="214dp"
+        android:layout_height="71dp"
+        android:layout_marginTop="56dp"
+        android:background="#EA7BC5"
+        android:text="Depression"
+        android:textColor="#1258CD"
+        android:textColorLink="#9780FF"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/bstress" />
+</androidx.constraintlayout.widget.ConstraintLayout>

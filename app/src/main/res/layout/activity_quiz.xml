@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#CDE6F1"
+    android:orientation="vertical"
+    android:paddingLeft="16dp"
+    android:paddingTop="16dp"
+    android:paddingRight="16dp"
+    android:paddingBottom="16dp"
+    tools:context=".quizActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="48dp"
+        android:padding="8dp" />
+
+    <TextView
+        android:id="@+id/questionno"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_marginBottom="40dp"
+        android:padding="8dp"
+        android:text="1 of 7"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/question"
+        android:layout_width="wrap_content"
+
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="40dp"
+        android:fontFamily="@font/dancingscript"
+        android:padding="8dp"
+        android:text="How often have you been upset because of something unexpected?"
+        android:textColor="#1B0000"
+        android:textSize="32sp" />
+
+    <Button
+        android:id="@+id/choice1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="24dp"
+        android:padding="8dp"
+        android:text="Never"
+
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/choice2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="24dp"
+        android:padding="8dp"
+        android:text="Rarely"
+
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/choice3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="24dp"
+        android:padding="8dp"
+        android:text="Sometimes"
+
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/choice4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="24dp"
+        android:padding="8dp"
+        android:text="Often"
+
+        android:textSize="24sp" />
+
+</LinearLayout>

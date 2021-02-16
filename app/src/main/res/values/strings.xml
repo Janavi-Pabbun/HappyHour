@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">HappyHour</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="desp1"> \n\n  <b>Anxiety</b> is a feeling of uneasiness and worry, usually generalized and unfocused as an overreaction to a situation
+        that is only subjectively seen as menacing.It is often accompanied by muscular tension,restlessness, fatigue and problems in concentration.\n\n
+        Anxiety is closely related to fear, which is a response to a real or perceived immediate threat; anxiety involves the expectation of future threat.\n\n
+        People facing anxiety may withdraw from situations which have provoked anxiety in the past.Anxiety is a feeling of uneasiness and worry, usually
+        generalized and unfocused as an overreaction to a situation that is only subjectively seen as menacing. It is often accompanied by muscular
+        tension,restlessness, fatigue and problems in concentration. Anxiety is closely related to fear, which is a response to a real or perceived
+        immediate threat; anxiety involves the expectation of future threat. People facing anxiety may withdraw from situations which have provoked
+        anxiety in the past.\n\nAnxiety is a feeling of uneasiness and worry, usually generalized and unfocused as an overreaction to a situation that is only subjectively seen as menacing. It is often accompanied by muscular tension, restlessness,fatigue and problems in concentration. \n\n
+        Anxiety is closely related to fear, which is a response to a real or perceived immediate threat; anxiety involves the expectation of future threat.People facing anxiety may withdraw from situations which have provoked anxiety in the past.\n\n
+\n\n
+        <b>Causes</b>:\n\n
+      Anxiety is not always related to an underlying condition. It may be caused by:\n\n
+Stress that can result from work, school, personal relationship\n\n
+Emotional trauma \n\n
+Financial concerns\n\n
+Stress caused by a chronic or serious medical condition\n\n
+A major event or performance\n\n
+Side effect of certain medications\n\n
+Alcohol consumption, drugs such as cocaine\n\n
+    </string>
+
+
+    <string name="desplease" >  \n\n
+         Stress is a normal part of life that can either help us learn and grow or can cause us significant problems.\n\n
+Stress releases powerful neurochemicals and hormones that prepare us for action (to fight or flee).\n\n
+	If we don\'t take action, the stress response can create or worsen health problems.\n\n
+	Prolonged, uninterrupted, unexpected, and unmanageable stresses are the most damaging.\n\n
+	Stress can be managed by seeking support from loved ones, regular exercise, meditation or other relaxation techniques, structured timeouts, and learning new coping strategies to create predictability in our lives.
+ \n \n	Many behaviors that increase in times of stress and maladaptive ways of coping with stress- drugs, pain medicines, alcohol, smoking, and eating  actually worsen the stress and can make us more reactive (sensitive) to further stress.
+ \n\n 	Risk factors for unmanageable stress include a lack of adequate social support.\n\n
+	While there are promising treatments for stress, the management of stress is mostly dependent on the ability and willingness of a person to make the changes necessary for a healthy lifestyle.\n\n
+
+    </string>
+    <string name="depr"> \n\n
+        Depression is a state of low mood and aversion to activity. It can affect a person\'s thoughts, behavior, motivation, feelings,
+        and sense of well-being. It may feature sadness, difficulty in thinking and concentration and a significant increase or
+        decrease in appetite and time spent sleeping. People experiencing depression may have feelings of dejection, hopelessness
+        and, sometimes, suicidal thoughts. It can either be short term or long term. The core symptom of depression is said to be
+        anhedonia, which refers to loss of interest or a loss of feeling of pleasure in certain activities that usually bring joy to
+        people. Depressed mood is a symptom of some mood disorders such as major depressive disorder
+        or dysthymia; it is a normal temporary reaction to life events, such as the loss of a loved one; and it is also a symptom of
+        some physical diseases and a side effect of some drugs and medical treatments.
+        \n\n
+    </string>
+</resources>
